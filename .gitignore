@@ -44,3 +44,7 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# file: ~/.gitignore_global
+.DS_Store
+.idea
